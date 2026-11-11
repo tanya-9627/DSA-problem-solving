@@ -90,6 +90,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,8 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
