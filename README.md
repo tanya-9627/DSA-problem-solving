@@ -92,10 +92,12 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | [0042-trapping-rain-water](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0070-climbing-stairs/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0022-generate-parentheses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,16 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0070-climbing-stairs/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
