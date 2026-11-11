@@ -93,6 +93,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 ## Backtracking
@@ -132,6 +133,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,12 +142,15 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
