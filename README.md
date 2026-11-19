@@ -90,6 +90,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0070-climbing-stairs/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -109,6 +110,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -128,6 +130,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [3207-maximum-points-after-enemy-battles](https://github.com/tanya-9627/DSA-problem-solving/tree/main/3207-maximum-points-after-enemy-battles/) | Medium |
