@@ -109,6 +109,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0055-jump-game/) | Medium |
@@ -151,6 +152,7 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Tree
@@ -158,4 +160,8 @@ Consistency over perfection. Every problem is an opportunity to learn something 
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tanya-9627/DSA-problem-solving/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
